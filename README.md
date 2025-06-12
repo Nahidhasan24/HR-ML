@@ -101,13 +101,4 @@ pip install pandas numpy scikit-learn word2number
 
 This project is open-source and free to use for educational purposes.
 
----
-
-## Author
-
-Your Name
-Date: 2025-06-12
-
----
-
 Feel free to contribute or raise issues!
