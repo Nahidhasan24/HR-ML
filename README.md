@@ -111,8 +111,3 @@ Date: 2025-06-12
 ---
 
 Feel free to contribute or raise issues!
-
-```
-
-If you want, I can help customize it more!
-```
